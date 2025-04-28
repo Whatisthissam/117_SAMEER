@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/65/d6/b6/65d6b6447e454e4d6a45a4e056d5cb6e.jpg) ;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}
+
+section {
+    padding: 10px;
+    margin: 20px;
+    border: 10px solid #ccccccf1;
+}
